@@ -1,5 +1,5 @@
 # Hyperskill_Password_Hacker
-Difficulty: Hard
+Difficulty: Challenging
 
 ## About
 All sorts of creatures lurk around the Internet, including trolls, pirates, miners – and hackers. 
